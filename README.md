@@ -79,7 +79,7 @@ bgcolor="pink">
 <td>19AI303/Sellakumar S</td>
 <td>19AI301/Akila Mohan</td>
 <td>19AI301/Akila Mohan</td>
-<td align="center"><b>C</b></td>
+<td align="center"><b>C (Mentoring(ECA051)-Pramila G)</b></td>
 <td>19AI302/Sellakumar S</td>
 <td>19AI302/Sellakumar S</td>
 </tr>
@@ -89,7 +89,7 @@ bgcolor="pink">
 <td>19AI401/Karthi Govindharaju</td>
 <td>19AI301/Akila Mohan</td>
 <td>19AI301/Akila Mohan</td>
-<td align="center"><b>H (Mentoring(ECA051-AD)-Niha)</b></td>
+<td align="center"><b>H</b></td>
 <td align="center"><b>-</b></td>
 <td align="center"><b>-</b></td>
 </tr>
@@ -108,7 +108,7 @@ bgcolor="pink">
 </html>
 ~~~
 # OUPUT
-![GitHub Logo](table.png)
+![GitHub Logo](tea.png)
 
 # RESULT
 The timetable is created successfully.
