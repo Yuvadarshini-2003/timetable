@@ -22,15 +22,15 @@ Execute the program
 <body>
 <img src="logo.png" width="1439">
 <table border = "1" cellspacing="1" bordercolor="black"
-bgcolor="cyan">
+bgcolor="pink">
 <tr>
 <th colspan="8">TIME TABLE</th>
 </tr>
 <tr>
 <th colspan="2">Reference Number:</th>
-<th colspan="2">21001803</th>
+<th colspan="2">21001175</th>
 <th colspan="2">Name:</th>
-<th colspan="2">Yuvadarshini S</th>
+<th colspan="2">Ritika S</th>
 </tr>
 <tr>
 <tr>
@@ -45,8 +45,8 @@ bgcolor="cyan">
 </tr>
 
 <td>MONDAY</td>
-<td>19MC802/Sasikala M</td>
-<td>19MC802/Sasikala M</td>
+<td align="center"><b>-</b></td>
+<td align="center"><b>-</b></td>
 <td>19MA220/Akila Mohan</td>
 <td>19MA220/Akila Mohan</td>
 <td align="center"><b>L</b></td>
@@ -108,7 +108,7 @@ bgcolor="cyan">
 </html>
 ~~~
 # OUPUT
-![GitHub Logo](tt.png)
+![GitHub Logo](table.png)
 
 # RESULT
 The timetable is created successfully.
