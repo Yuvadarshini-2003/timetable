@@ -95,7 +95,6 @@ bgcolor="pink">
 </tr>
 </table>
 <ol type="1">
-<li>19MC802-Environmental Science</li>
 <li>19MA220-Mathematics for Artificial Intelligence</li>
 <li>19MA221-Linear Algebra Laboratory</li>
 <li>19AI402-Web Technology Laboratory</li>
