@@ -28,9 +28,9 @@ bgcolor="pink">
 </tr>
 <tr>
 <th colspan="2">Reference Number:</th>
-<th colspan="2">21001175</th>
+<th colspan="2">21001803</th>
 <th colspan="2">Name:</th>
-<th colspan="2">Ritika S</th>
+<th colspan="2"Yuvadarshini S</th>
 </tr>
 <tr>
 <tr>
@@ -45,8 +45,8 @@ bgcolor="pink">
 </tr>
 
 <td>MONDAY</td>
-<td align="center"><b>-</b></td>
-<td align="center"><b>-</b></td>
+<td align="center">19MC802/Sasikala M</td>
+<td align="center">19MC802/Sasikala M</td>
 <td>19MA220/Akila Mohan</td>
 <td>19MA220/Akila Mohan</td>
 <td align="center"><b>L</b></td>
@@ -107,7 +107,7 @@ bgcolor="pink">
 </html>
 ~~~
 # OUPUT
-![GitHub Logo](tea.png)
+![GitHub Logo](tt.png)
 
 # RESULT
 The timetable is created successfully.
